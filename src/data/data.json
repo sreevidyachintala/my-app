@@ -1,0 +1,57 @@
+{
+    "profiles":[
+        {
+            "basicInformation": {
+                "name" : "Sreevidya Chintala",
+                "role" : "Technical skill Trainer",
+                "email" : "sreevidya.c@apssdc.in",
+                "mobile": "+91 8897523679"
+            },
+            "about":[
+                {
+
+                "about":"I have been working as Technical Skill Trainer from tha past 2 years in AndhraPradesh State Skill Development Corporation(APSSDC).Training students in Engineering Colleges throughout Andhrapradesh on various technologies.Trained morethan 3000 students so far in my experience.I'm very much passionateto share my knowledge and skills to students and enthusiastic to learn the skills."
+
+            }
+        ],
+            "education":[
+                {
+                    "degree":"B-Tech (CSE)",
+                    "institution": "Gudlavalleru Engineering College"
+                },
+                {
+                    "degree":"Inter(M.P.C)",
+                    "institution":"Vidyalaya Junior College,Gudivada"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "S.E.R.M High School"
+                }
+            ],
+            "skill":[
+                {
+                    "a1":"webtechnologies : HTML,CSS3,Bootstrap4",
+                    "a2":"Frameworks : Django,Flask,Reactjs,Javascript",
+                    "a3":"Operating Systems : Windows,Linux",
+                    "a4": "Programming Languages : Python,C"
+                    
+                }
+                
+            ],
+            "certification":[
+                {
+                    "name":"PythonForEverybody",
+                    "University":"MichiganUniversity"
+                },
+                {
+                    "name":"FullStackNanoDegree",
+                    "University":"Udacity"
+                }
+            ]
+               
+
+            
+        }
+        
+    ]
+}
